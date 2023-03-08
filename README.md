@@ -3,7 +3,7 @@ This is a Python script based on object-oriented programming that generates a .p
 
 The script requires a FASTA file that has a maximum of 10 sequences, where each sequence should not exceed 1000 bases. Introns are to be represented using lowercase nucleotides, while uppercase nucleotides are to be used for exons. Additionally, a txt file is needed containing one motif per line. Motifs can include any IUPAC degenerate base symbol, and they can be denoted in uppercase or lowercase.
 
-Usage: ./Motif-Mark-OOP.py -f [Fasta File] -m [Motif File]
+Usage: ./motif-mark-oop.py -f [Fasta File] -m [Motif File]
 
 
 Example Output:
